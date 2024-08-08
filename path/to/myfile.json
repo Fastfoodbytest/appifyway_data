@@ -9,5 +9,16 @@
     "language": "Hindi",
     "category": "Vdkg",
     "type": "Free"
+  },
+  "Po": {
+    "courseId": "Po",
+    "title": "New Show first time",
+    "posterLink": "https://m.media-amazon.com/images/M/MV5BNDVlYTdmYWEtMWIzNi00YTczLWIzMzEtODI2ZDU0OWU0YTBhXkEyXkFqcGdeQXVyMTgxMDA3MDQ3._V1_FMjpg_UY700_.jpg",
+    "description": "What is the official channel ID as a musician who are",
+    "author": "So",
+    "duration": "25",
+    "language": "English",
+    "category": "No",
+    "type": "VIP"
   }
 }
